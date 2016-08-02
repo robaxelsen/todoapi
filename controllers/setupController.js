@@ -5,17 +5,19 @@ module.exports = function(app) {
         //seed database with some initial objectsi
         var starterTodos = [
             {
-                username: 'REPLACE-WITH-YOUR-USERNAME',
+                username: 'test',
                 todo: 'Buy t-shirt',
                 isDone: false,
                 isFavorite: false
             },
-                username: 'REPLACE-WITH-YOUR-USERNAME',
+            {
+                username: 'test',
                 todo: 'Pick up flowers',
                 isDone: false,
                 isFavorite: false
             },
-                username: 'REPLACE-WITH-YOUR-USERNAME',
+            {
+                username: 'test',
                 todo: 'Write email to Bob',
                 isDone: false,
                 isFavorite: false
