@@ -17,7 +17,7 @@ Replace the username and password values with your own [mLab](https://mlab.com/)
 ```bash
 vim config/config.json
 ```
-Replace the MongoDB url with your own mLab uri, or replace whole return statement with your local MongoDB access, and save.
+Replace the MongoDB url with your own mLab url, or replace whole return statement with your local MongoDB access, and save.
 ```bash
 npm install
 node app.js
