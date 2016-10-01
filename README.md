@@ -5,7 +5,7 @@ A simple todo app API, made with Node.js and MongoDB.
 This is currently an initial demo only, but I have plans to expand it to become an easy to use boilerplate API project. Any suggestions for improvements or features are welcome - please create an issue or pull request.
 
 ## Not Production Ready
-Not production ready at this stage.
+Not production ready at this stage. Use at own risk.
 
 ##INSTALLATION
 ```bash
